@@ -1,0 +1,16 @@
+# Compiled binaries
+*.exe
+*.out
+a.out
+*.o
+
+# macOS junk
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Test I/O files
+input.txt
+output.txt
