@@ -14,3 +14,6 @@ a.out
 # Test I/O files
 input.txt
 output.txt
+A1/A1-0[0-9][0-9]
+A2/A2-0[0-9][0-9]
+A3/A3-0[0-9][0-9]
