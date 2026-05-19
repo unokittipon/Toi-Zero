@@ -6,7 +6,7 @@
 
 ส่วนการ install buu-toi-tracker (chrome only)
 1. ให้โหลดมาไว้ในเครื่องก่อน !โหลดมาแล้วหาลบทิ้ง ไม่งั้นต้อง install ใหม่หมด
-2. ให้ไปที่ chrome://extensions
+2. ให้พิมในแถบ url ว่า  chrome://extensions
 3. กด Load unpack มุมซ้ายบน
 4. เลือกโฟลเดอร์ buu-toi-install
 5. refresh หน้่าเว็ป cms ของ toi-zero ใหม่
